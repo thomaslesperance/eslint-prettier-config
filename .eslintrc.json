@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "plugin:node/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "plugins": [],
+  "rules": { "prettier/prettier": ["warn", { "singleQuote": true }] }
+}
